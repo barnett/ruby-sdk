@@ -4,7 +4,7 @@
 
 The Payment Rails Ruby library provides integration access to the Payment Rails API.
 
-[^1]: [Payment Rails is now Trolley](https://www.trolley.com/payment-rails-is-now-trolley-series-a), we'll be updating our SDKs to support the new domain during the first half of 2022.
+[^1]: [Payment Rails is now Trolley](https://www.trolley.com/payment-rails-is-now-trolley-series-a), we'll be updating our SDKs to support the new domain during the second half of 2022.
 
 ## Requirements
 
@@ -56,4 +56,4 @@ client = PaymentRails.client('YOUR-API-KEY', 'YOUR-SECRET-KEY', 'development', p
 
 ## Documentation for API Endpoints
 
-All URIs are available at http://docs.paymentrails.com/
+All URIs are available at http://docs.trolley.com/
